@@ -1,25 +1,42 @@
 *{
     font-family: 'Roboto', sans-serif;
 }
+#secret{
+    text-align: center;
+}
+#reset{
+    display: inline-block;
+    height: 300px;
+}
+
+.chess{
+    background-color: aqua;
+}
+.school{
+    background-color: palevioletred;
+}
+.space{
+    background-color: black;
+    color: whitesmoke;
+}
+.wonder{
+    background-color: aquamarine;
+}
+.imagine{
+    height: 300px;
+}
+
 h1{
+    color: blue;
+    text-align: center;
+}
+h2{
     color: blue;
     text-align: center;
 }
 h3{
     text-align: center;
 }
-
-#chess{
+.option{
     display: inline-block;
-}
-#school{
-    display: inline-block;
-}
-
-#chessboard{
-    height: 300px;
-}
-
-#schoolhouse{
-    height: 300px;
 }
