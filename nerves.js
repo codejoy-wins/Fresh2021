@@ -26,6 +26,7 @@ function hoverboard(thing){
         document.getElementById("secret").innerHTML=`
         <div class="resize">
             <h2>Thousand Oaks, California</h2>
+            <h3>805 940 5096</h3>
         </div>
         `
     }
